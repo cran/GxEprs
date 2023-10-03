@@ -1,6 +1,6 @@
 Package: GxEprs
 Title: Genotype-by-Environment Interaction in Polygenic Score Models
-Version: 1.0
+Version: 1.1
 Authors@R: c(person("Dovini", "Jayasinghe", role = c("aut", "cre","cph"), email = "dovini.jayasinghe@mymail.unisa.edu.au"),
              person("Hong", "Lee", role = c("aut","cph"),email = "Hong.Lee@unisa.edu.au"),
              person("Moksedul", "Momin", role = c("aut","cph"), email = "md_moksedul.momin@mymail.unisa.edu.au"))
@@ -12,10 +12,10 @@ RoxygenNote: 7.2.3
 Depends: R (>= 2.10)
 LazyData: true
 NeedsCompilation: no
-Packaged: 2023-08-25 00:17:05 UTC; dj8715
+Packaged: 2023-10-03 03:12:25 UTC; dj8715
 Author: Dovini Jayasinghe [aut, cre, cph],
   Hong Lee [aut, cph],
   Moksedul Momin [aut, cph]
 Maintainer: Dovini Jayasinghe <dovini.jayasinghe@mymail.unisa.edu.au>
 Repository: CRAN
-Date/Publication: 2023-08-25 17:20:05 UTC
+Date/Publication: 2023-10-03 06:30:03 UTC
