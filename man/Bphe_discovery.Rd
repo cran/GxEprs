@@ -8,9 +8,9 @@ This contains phenotype information of the individuals in the discovery dataset.
 \format{
 A dataframe with 800 rows and 3 columns
 \describe{
-\item{Column 1}{Family ID}
-\item{Column 2}{Individual ID}
-\item{Column 3}{Phenotype (1=controls, 2=cases)}
+ \item{Column 1}{Family ID}
+ \item{Column 2}{Individual ID}
+ \item{Column 3}{Phenotype (1=controls, 2=cases)} 
 }
 }
 \usage{
